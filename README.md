@@ -5,7 +5,7 @@
 
 I'm Emre, living in 🇹🇷 and working as a Cloud Native Engineer at bestcloudfor.me ☁️
 
-As a teenager, I was the kid people approached about their technical issues. I formatted many computers, changed many ringtones, and repaired many satellite receivers. I was the go-to guy for resolving any technical problems.
+As a teenager, I was the kid people approached about their technical issues. I formatted many computers, changed many ringtones. I was the go-to guy for resolving any technical problems.
 
 Today not much has changed. I still help people by resolving their problems but in a professional way.
 
