@@ -9,4 +9,4 @@ In addition, I am an AWS Certified Solutions Architect - Associate, further enha
 
 If you want to know more about me, click the below link and feel free to make some noise 🤟 
 
-https://linktr.ee/emre.cakmak
+https://emrecakmak.github.io/cv
