@@ -5,7 +5,7 @@
 
 I'm Emre, living in 🇹🇷 and working as a Cloud Native Engineer at bestcloudfor.me ☁️
 
-In addition, I am an AWS Certified Solutions Architect - Associate, further enhancing my skills and knowledge in designing and implementing scalable and secure solutions on the AWS platform.
+In addition, I'm an AWS Certified Solutions Architect - Associate, further enhancing my skills and knowledge in designing and implementing scalable and secure solutions on the AWS platform.
 
 If you want to know more about me, click the below link and feel free to make some noise 🤟 
 
