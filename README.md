@@ -5,9 +5,7 @@
 
 I'm Emre, living in 🇹🇷 and working as a Cloud Native Engineer at bestcloudfor.me ☁️
 
-As a teenager, I was the kid people approached about their technical issues. I formatted many computers, changed many ringtones. I was the go-to guy for resolving any technical problems.
-
-Today not much has changed. I still help people by resolving their problems but in a professional way.
+In addition, I am an AWS Certified Solutions Architect - Associate, further enhancing my skills and knowledge in designing and implementing scalable and secure solutions on the AWS platform.
 
 If you want to know more about me, click the below link and feel free to make some noise 🤟 
 
